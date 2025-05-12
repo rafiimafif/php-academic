@@ -31,7 +31,7 @@
 
         <tr>
           <th class="nama">Nama Lengkap : </th>
-          <td><input  type="text" size="35" name="nama" placeholder="Masukan Nama Lengkap" required /></td>
+          <td><input  type="text" size="35" name="nama" placeholder="Masukan Nama Lengkap anda" required /></td>
         </tr>
 
         <tr>
